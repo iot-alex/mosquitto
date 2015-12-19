@@ -1,2 +1,2 @@
-# Intel Edison MQTT - mmosquitto
+# Intel Edison MQTT - mosquitto
 ----------------
